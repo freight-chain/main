@@ -6,9 +6,9 @@
 
 | Class           | Value                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| Ethereum Wallet | 0x\.\.\.                                                              |
-| Node Address    | 0x\.\.\.                                                              |
-| Region          | USA, EURO\-\(FRA,GER,SWE,NEL,EU\), GBR, RTE, AUST, JAPN, AVAIL, OTHER |
+| Ethereum Wallet | 0x922AB52329ddc56f0D9c2Fe8975018b38fE420f6                                                           |
+| Node Address    | 0x266b583e65af7ef65dac9f13cd16ac8ad9cceccf                                                              |
+| Region          | USA |
 | Node            | Signer, Validator, Authority, Heartbeat                               |
 | Date            | 2020\-1\-2 23:59:59 \+0000                                            |
 ---
