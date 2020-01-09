@@ -6,11 +6,11 @@
 
 | Class           | Value                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| Ethereum Wallet | 0x\.\.\.                                                              |
-| Node Address    | 0x\.\.\.                                                              |
-| Region          | USA, EURO\-\(FRA,GER,SWE,NEL,EU\), GBR, RTE, AUST, JAPN, AVAIL, OTHER |
-| Node            | Signer, Validator, Authority, Heartbeat                               |
-| Date            | 2020\-1\-2 23:59:59 \+0000                                            |
+| Ethereum Wallet | 0xE81342DF11806fd8A3a66fA15456CDEcf381afC9                            |
+| Node Address    | 0xf2680b0737bac3bb59122b3323296e7be2423f2e                            |
+| Region          | AVAIL                                                                 |
+| Node            | Signer                                                                |
+| Date            | 2020\01\09 03:37:00 \+0000                                            |
 ---
 **Ethereum Wallet**: Your Ethereum Main Net Wallet Address
 **Node Address**: Your Freight Trust Network. Generate your Node Address on your *personal computer* by running the command:
