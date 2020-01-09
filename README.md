@@ -9,7 +9,7 @@
 | Ethereum Wallet |0x8a93762633F865Ebc425E824F8AC09e1A44Ad427                                                               |
 | Node Address    |0x1597616c8a056c51a39f01140f4844d05372e5a5a7ccfac02efb7c3266df0d0911b4d72e0da002182a96ca193dca01b571000660da4920309bde1d2a5147e4af                                                              |
 | Region          | USA |
-| Node            | Authority                              |
+| Node            |  	Signer, Validator, Authority, Heartbeat                             |
 | Date            | 2020\-1\-2 23:59:59 \+0000                                            |
 ---
 **Ethereum Wallet**: Your Ethereum Main Net Wallet Address
