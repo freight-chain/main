@@ -42,6 +42,7 @@ OTHER: Switerzland, India, Hong Kong, Tawiwan, South Korea, Brazil
 |-----------------|--------------------------------------------|
 | Ethereum Wallet | 0xC0BD37be44632C587F7466da478d363ff79d4F7A |
 | Node Address    | 0x0026c1b0c4b2f856f23f71d1c9d8d7ae7885cb41 |
+| Provider        | AWS/GCloud                                 |
 | Region          | EURO\-FRA                                  |
 | Node            | Signer, Validator, Authority, Heartbeat    |
 | Date            | 2020\-1\-2 23:59:59 \+0000                 |
@@ -51,7 +52,7 @@ Actual File saved as `0xC0BD37be44632C587F7466da478d363ff79d4F7A.json`
 ```json
 {
   "user": "mer1dian",
-  "name": "Freight Trust Protocol",
+  "provider": "aws/gcloud",
   "region": "EURO",
   "eth_address": "0xC0BD37be44632C587F7466da478d363ff79d4F7A",
   "ftn_address": "0x0026c1b0c4b2f856f23f71d1c9d8d7ae7885cb41",
