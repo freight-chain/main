@@ -1,0 +1,7 @@
+"user": "Brandonme",
+  "provider": "aws/gcloud",
+  "region": "EURO",
+  "eth_address": "0x480754979eB700A161E530AF39378F32130A155a",
+  "ftn_address": "0xd5f94aa378b6dbd77c9b0a6256c8227e07121267",
+  "node": "signer, authority",
+  "data": ""
