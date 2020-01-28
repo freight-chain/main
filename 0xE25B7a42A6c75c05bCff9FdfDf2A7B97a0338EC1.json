@@ -1,0 +1,9 @@
+{
+  "user": "Wazzag99",
+  "provider": "aws/gcloud",
+  "region": "GBR, EURO",
+  "eth_address": "0xE25B7a42A6c75c05bCff9FdfDf2A7B97a0338EC1",
+  "ftn_address": "0x5c820ff26e9a322a0fbebdb1225d8ed11722babd",
+  "node": "signer, validator, authority, heartbeat",
+  "data": ""
+}
