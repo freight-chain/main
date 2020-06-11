@@ -1,0 +1,13 @@
+{
+  "name": "@freight-trust/corp",
+  "version": "1.0.0",
+  "description": "unirepo ",
+  "main": "index.js",
+  "repository": "https://github.com/freight-chain/main.git",
+  "author": "sbacha <sam@freighttrust.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}
