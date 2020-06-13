@@ -1,0 +1,9 @@
+{
+  "user": "FT-node",
+  "provider": "aws, gcloud",
+  "region": "AVAIL",
+  "eth_address": "0xb8a670aE62C10363523402E29848477d60Dc5388",
+  "ftn_address": "0x519e6c56318EABE8C9a87158EbA5B45AAd53Ec2e",
+  "node": "signer, validator, failover, heartbeat",
+  "data": ""
+}
