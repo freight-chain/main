@@ -1,9 +1,0 @@
-{
-  "user": "trackxyj",
-  "provider": "aws, gcloud",
-  "region": "AVAIL",
-  "eth_address": "0x922AB52329ddc56f0D9c2Fe8975018b38fE420f6",
-  "ftn_address": "0x266b583e65af7ef65dac9F13cd16AC8Ad9CcEcCf",
-  "node": "signer, validator, failover, heartbeat",
-  "data": ""
-}
