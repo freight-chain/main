@@ -4,9 +4,9 @@ rules:
     pattern: Github
     message: Do you want to write GitHub?
     glob:
-      - "**/*.rb"
-      - "**/*.{yaml,yml}"
-      - "public/**/*.html"
+      - '**/*.rb'
+      - '**/*.{yaml,yml}'
+      - 'public/**/*.html'
     fail:
       - Signup via Github
     pass:
@@ -22,7 +22,7 @@ rules:
       - If you catch the errors.
       - When you implement admin console, where end users won't access.
     glob:
-      - "**/*.js"
+      - '**/*.js'
     fail:
       - |
         localStorage.setItem(key, value);
@@ -32,7 +32,7 @@ rules:
     not:
       pattern: use strict
     message: Use *strict mode* if possible.
-    glob: "**/*.js"
+    glob: '**/*.js'
     fail:
       - |
         const var = "This is *sloppy* mode."
@@ -42,8 +42,7 @@ rules:
     message: Some of the packages are updated!
     justification:
       - If you update some of the packages.
-    glob: "package-lock.json"
-
+    glob: 'package-lock.json'
 # You can import rules.
 # import:
 #   - https://example.com/example-rules.yml
