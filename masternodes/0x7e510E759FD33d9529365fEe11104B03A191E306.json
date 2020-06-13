@@ -1,9 +1,0 @@
-{
-  "user": "ashgit99",
-  "provider": "aws, gcloud",
-  "region": "AVAIL",
-  "eth_address": "0x7e510E759FD33d9529365fEe11104B03A191E306",
-  "ftn_address": "0xAe38Afb4b8081e5170b3E7F75AbFd5F09d793cDD",
-  "node": "signer, validator, failover, heartbeat",
-  "data": ""
-}
