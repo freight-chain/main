@@ -1,0 +1,9 @@
+{
+  "user": "joel3298",
+  "provider": "aws, gcloud",
+  "region": "AVAIL",
+  "eth_address": "0x6A78DF9cf46EA9940eC24eD0dBB0ceE2e5B2970c",
+  "ftn_address": "0x28ebC05769F401A3ec4D009C92283aB27414af6f",
+  "node": "signer, validator, failover, heartbeat",
+  "data": ""
+}
