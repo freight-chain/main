@@ -6,7 +6,7 @@ RUN wget -c -O amazon-corretto-11-11.0.7.10.1-r0.apk  https://d3pxv6yz143wms.clo
     rm -rf amazon-corretto-11-11.0.7.10.1-r0.apk && \
     JAVA_HOME=/usr/lib/jvm/default-jvm && \
     PATH=$PATH:$JAVA_HOME/bin && \
-    jlink --endian little --release-info $JAVA_HOME/release \ 
+    jlink --endian little --release-info $JAVA_HOME/release \
         --add-modules "java.base,java.datatransfer,java.desktop,java.instrument,java.logging,java.management,java.management.rmi,java.naming,java.prefs,\
 java.rmi,java.security.sasl,java.xml,jdk.internal.vm.ci,jdk.jfr,jdk.management,jdk.management.jfr,jdk.management.agent,jdk.net,jdk.sctp,jdk.unsupported,\
 jdk.naming.rmi,java.compiler,jdk.aot,jdk.internal.vm.compiler,jdk.internal.vm.compiler.management,java.se,java.net.http,java.scripting,java.security.jgss,\
